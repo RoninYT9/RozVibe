@@ -120,7 +120,9 @@ However, cryptography should never rely solely on documentation. If you discover
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is provided under a Source-Available, Non-Commercial License.
+
+The source code is published here strictly for transparency, educational purposes, and security auditing. You are welcome to read, review, and analyze the code. However, you are strictly prohibited from copying, redistributing, or using this code in any commercial product, application, or service without explicit written permission from SezRonix.
 
 ---
 
